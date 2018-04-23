@@ -50,3 +50,13 @@ pod 'VKIconTextField', '~> 1.0'
 
 @end
 ```
+```
+//继承后使用
+[VKAccountHandle postUrl:@"" param:@{} block:^(BOOL status, id data) {
+        
+}];
+[VKAccountHandle getUrl:@"" param:@{} block:^(BOOL status, id data) {
+        
+}];
+```
+
