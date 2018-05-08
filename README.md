@@ -2,7 +2,7 @@
 a network tool with AFNetworking
 # CocosPods
 ```
-pod 'VKIconTextField', '~> 1.0'
+pod 'VKNetworkHandle', '~> 1.0'
 ```
 # Examples
 ```
